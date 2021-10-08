@@ -5,4 +5,5 @@ Please download the project via Google Drive: https://drive.google.com/drive/fol
 There are two different versions of project inside the folder:
 
 Branch [`main`](https://drive.google.com/file/d/1ngFDtqwZDuH52Nz8YtUp1K_Mv1gp7wyQ/view?usp=sharing): Demo directly on computer.
+
 Branch [`vr2020`](https://drive.google.com/file/d/1vxRlPXzyw6TOhPxdOaPBIpKd9NfC-C34/view?usp=sharing): For demo on VR Headset.
