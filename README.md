@@ -1,5 +1,7 @@
 # vnu-vr
 
+Official GitLab repository link: [`GitLab VNU-VR`](https://gitlab.com/uet-hmi-lab/vnu-vr)
+
 Please download the project via Google Drive: https://drive.google.com/drive/folders/1_v_NousKNSSri_jn0GVBv3MzDqveMzvl?usp=sharing
 
 There are two different versions of project inside the folder:
